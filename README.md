@@ -1,9 +1,9 @@
 # CVPR-2024-Speech_Audio_Music-Papers
-A curated collections of papers related to the topics of joint learning of vision with speech, audio or music (audio-visual learning) in CVPR 2024.
+A collections of papers related to the topics of joint learning of vision with speech, audio or music (audio-visual learning) in CVPR 2024. For folks who work in the field related to audio-visual learning, computer audition, speech/audio/music, this repo gives a brief summary of the accepted papers (main conference) along with their code and/or dataset. More information will be updated for works that are accepted in workshops or demos.
 
 ## 🗞️ papers along with associated code
 
-# Speech
+## Speech
 
 * [Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf) Chhatre, Kiran and Daněček, Radek and Athanasiou, Nikos and Becherini, Giorgio and Peters, Christopher and Black, Michael J. and Bolkart, Timo [[code]](https://github.com/kiranchhatre/amuse)
 * [ES³: Evolving Self-Supervised Learning of Robust Audio-Visual Speech Representations](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf) Yuanhang, Zhang and Shuang, Yang and Shiguang, Shan and Xilin, Chen
@@ -19,7 +19,7 @@ A curated collections of papers related to the topics of joint learning of visio
 * [EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf)  Haiyang, Liu and Zihao, Zhu and Giorgio, Becherini and Yichen, Peng and Mingyang, Su and You, Zhou and Xuefei, Zhe and Naoya, Iwamoto and Bo, Zheng and Michael J. Black [[code]](https://github.com/PantoMatrix/PantoMatrix/tree/main/scripts/EMAGE_2024)
 * [Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Weakly-Supervised_Emotion_Transition_Learning_for_Diverse_3D_Co-speech_Gesture_Generation_CVPR_2024_paper.pdf) Xingqun, Qi and Jiahao, Pan and Peng, Li and Ruibin, Yuan and Xiaowei, Chi and Mengfei, Li and Wenhan, Luo and Wei, Xue and Shanghang, Zhang and Qifeng, Liu and Yike, Guo
 
-# Audio
+## Audio
 
 * [Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumder_Learning_Spatial_Features_from_Audio-Visual_Correspondence_in_Egocentric_Videos_CVPR_2024_paper.pdf) Sagnik, Majumder and Ziad, Al-Halah and Kristen, Grauman
 * [QDFormer: Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_QDFormer_Towards_Robust_Audiovisual_Segmentation_in_Complex_Environments_with_Quantization-based_CVPR_2024_paper.pdf) Xiang, Li and Jinglu, Wang and Xiaohao, Xu and Xiulian, Peng and Rita, Singh and Yan, Lu and Bhiksha, Raj
@@ -47,9 +47,12 @@ A curated collections of papers related to the topics of joint learning of visio
 * [Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Real_Acoustic_Fields_An_Audio-Visual_Room_Acoustics_Dataset_and_Benchmark_CVPR_2024_paper.pdf) Ziyang, Chen and Israel D. Gebru and Christian, Richardt and Anurag, Kumar and William, Laney and Andrew, Owens and Alexander, Richard [[code]](https://github.com/facebookresearch/real-acoustic-fields/) CVPR Highlight
 * [TIM: A Time Interval Machine for Audio-Visual Action Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Chalk_TIM_A_Time_Interval_Machine_for_Audio-Visual_Action_Recognition_CVPR_2024_paper.pdf) Jacob, Chalk and Jaesung, Huh and Evangelos, Kazakos and Andrew, Zisserman and Dima, Damen [[code]](https://github.com/JacobChalk/TIM)
 
-# Music
+## Music
 
 * [Diff-BGM: A Diffusion Model for Video Background Music Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.pdf) Sizhe, Li and Yiming, Qin and Minghang, Zheng Xin Jin and Yang, Liu [[code]](https://github.com/sizhelee/Diff-BGM)
 * [MuseChat: A Conversational Music Recommendation System for Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_MuseChat_A_Conversational_Music_Recommendation_System_for_Videos_CVPR_2024_paper.pdf) Zhikang, Dong and Xiulong, Liu and Bin, Chen and Pawel, Polak and Peng, Zhang [[code]](https://github.com/Dongzhikang/MuseChat-dataset) CVPR Highlight
 * [MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Chowdhury_MeLFusion_Synthesizing_Music_from_Image_and_Language_Cues_using_Diffusion_CVPR_2024_paper.pdf) Sanjoy, Chowdhury and Sayan, Nag and K J Joseph and Balaji Vasan Srinivasan and Dinesh, Manocha [[code]](https://github.com/schowdhury671/melfusion/tree/main) CVPR Highlight
 * [DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DanceCamera3D_3D_Camera_Movement_Synthesis_with_Music_and_Dance_CVPR_2024_paper.pdf) Zixuan, Wang and Jia, Jia and Shikun, Sun and Haozhe, Wu and Rong, Han and Zhenyu, Li and Di, Tang and Jiaqing, Zhou and Jiebo, Luo [[code]](https://github.com/Carmenw1203/DanceCamera3D-Official)
+
+## Contribute To the List
+Please feel free to submit issues or email (xl1995@uw.edu) to add/modify links or incorrect information.
