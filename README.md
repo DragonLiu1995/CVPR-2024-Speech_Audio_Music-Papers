@@ -51,6 +51,7 @@ A collections of papers related to the topics of joint learning of vision with s
 * [Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Learning_to_Visually_Localize_Sound_Sources_from_Mixtures_without_Prior_CVPR_2024_paper.pdf) Dongjin, Kim and Sung Jin Um and Sangmin, Lee and Jung Uk Kim [[code]](https://github.com/VisualAIKHU/NoPrior_MultiSSL)
 * [SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SoundingActions_Learning_How_Actions_Sound_from_Narrated_Egocentric_Videos_CVPR_2024_paper.pdf) Changan, Chen and Kumar, Ashutosh and Rohit Girdhar and David, Harwath and Kristen, Grauman
 * [SonicVisionLM: Playing Sound with Vision Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SonicVisionLM_Playing_Sound_with_Vision_Language_Models_CVPR_2024_paper.pdf) Zhifeng, Xie and Shengye, Yu and Qile, He and Mengtian, Li [[code]](https://github.com/Yusiissy/SonicVisionLM)
+* [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_CustomListener_Text-guided_Responsive_Interaction_for_User-friendly_Listening_Head_Generation_CVPR_2024_paper.pdf) Xi, Liu and Ying, Guo and Cheng, Zhen and Tong, Li and Yingying, Ao and Pengfei, Yan
 
 ## Music
 
