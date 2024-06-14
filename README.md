@@ -1,7 +1,7 @@
 # CVPR-2024-Speech_Audio_Music-Papers
 A collections of papers related to the topics of joint learning of vision with speech, audio or music (audio-visual learning) in CVPR 2024. For folks who work in the field related to audio-visual learning, computer audition, speech/audio/music, this repo gives a brief summary of the accepted papers (main conference) along with their code and/or dataset. More information will be updated for works that are accepted in workshops or demos.
 
-## 🗞️ papers along with associated code
+## 🗞️ papers along with associated code and/or dataset.
 
 ## Speech
 
