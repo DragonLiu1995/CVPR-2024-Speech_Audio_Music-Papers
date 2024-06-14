@@ -55,4 +55,4 @@ A collections of papers related to the topics of joint learning of vision with s
 * [DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DanceCamera3D_3D_Camera_Movement_Synthesis_with_Music_and_Dance_CVPR_2024_paper.pdf) Zixuan, Wang and Jia, Jia and Shikun, Sun and Haozhe, Wu and Rong, Han and Zhenyu, Li and Di, Tang and Jiaqing, Zhou and Jiebo, Luo [[code]](https://github.com/Carmenw1203/DanceCamera3D-Official)
 
 ## Contribute To the List
-Please feel free to submit issues or email (xl1995@uw.edu) to add/modify links or incorrect information.
+Please feel free to submit issues or email (xl1995@uw.edu) to add/modify links or correct wrong information.
